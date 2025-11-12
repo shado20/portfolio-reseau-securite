@@ -11,3 +11,4 @@
 
 
 ## 🧪 Mini-projet
+- J'ai réaliser le pan réseau avec tous les périphériques finaux et intermédiaires ainsi que les support d'un PME avec Cisco Packet Tracer ( 12/11/2025 )
